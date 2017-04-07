@@ -1,2 +1,2 @@
-# py_package_scaffold
-Scaffold your Python packages 
+# {{ app_name }}
+{{ description }} 

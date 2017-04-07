@@ -1,0 +1,2 @@
+[pytest]
+addopts = -q -s --cov {{ app_name }} --cov-report html --cov-report xml --junitxml=pytest.xml
